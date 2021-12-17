@@ -1,0 +1,27 @@
+Apro il browser
+
+Cerco una pizzeria
+
+Cerco il menù 
+
+   Controllo se ci sono pizze nel menu: 
+   Se ci sono :
+         -FINCHE (While) non trovo prosciutto e funghi
+            -Controllo pizza uno alla volta 
+            -Non è prosciutto e funghi elimina dalla lista e vado avanti
+            -prosciutto e funghi esco dal ciclo
+            -Non esiste prosciutto e funghi torno a Cerco pizzeria	
+         
+SENNO torno al cerco una pizzeria
+
+Ritiro la pizzeria
+
+Mangio la pizza
+
+La finisco?
+SE non la finisco
+
+SE mi ricordo:
+La metto in frigo
+Marcisce
+5)FINE
